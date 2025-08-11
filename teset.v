@@ -1,7 +1,7 @@
-module moduleName (
-    input wire clk,
-    input wire rst,
-    output wire [7:0] data_out
+module teset (
+    input a,
+    output b
 );
+    assign b = a;
 endmodule
 
